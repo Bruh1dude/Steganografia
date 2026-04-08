@@ -1,0 +1,29 @@
+y = ax + b
+(y-b)/ a = x
+abs(a1-b1) = x
+abs(a2-b2) = y
+
+A[2,2] 
+2 = a*2+b   			2 = a*2 + b
+5 = a*10+b				5 = a*10 + b
+-3 = -8a
+a = 3/8
+
+B[10,5]
+
+
+
+
+a2 = a1*a + b
+b2 = b1*a +b
+
+a2-b2 = a1*a-b1*a
+(a2-b2)/(a1-b1) = a
+
+a2 = a1 (a2-b2)/(a1-b1) + b
+a2 - a1 (a2-b2)/(a1-b1) + b
+
+
+krok 1 nacitat suradnice
+krok 2 pouzit vypocet x alebo y, ked ide pomaly tak cez x, ak je rychlo tak pomcou y 
+
